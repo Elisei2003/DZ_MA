@@ -55,6 +55,6 @@ $\frac{\frac{e^z}{z+2}}{(z-i)^2}$.
 \par\noindent где контуры A и B содержат по одной точке. Получаем:
 
 \par\noindent$\oint_C \frac{e^z}{(z-i)^2(z+2)}dz$ = 2\pi i\frac{e^-2}{(2+i)^2}+2\pi i\frac{i+1}{(2+i)^2}e^i = \frac{2\pi i}{(2+i)^2}(e^-2 +(i+1)e^i)
-[MA_DZ.pdf](https://github.com/Elisei2003/DZ_MA/files/8416014/MA_DZ.pdf)
 
-\end{document}
+
+\end{[MA_DZ.pdf](https://github.com/Elisei2003/DZ_MA/files/8416014/MA_DZ.pdf)}
